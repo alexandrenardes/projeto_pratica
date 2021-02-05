@@ -28,6 +28,7 @@
 
 .movieRow--item  img:hover{
     transform: scale(1);
+    opacity: 0.8;
 }
 
 .movieRow--Left,
